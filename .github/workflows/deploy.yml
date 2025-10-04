@@ -103,3 +103,10 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
+      - name: Deploy2 🚀
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # required
+          branch: gh-pages                     # where the action will publish
+          folder: _site                        # the Jekyll build output
