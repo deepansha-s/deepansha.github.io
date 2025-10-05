@@ -9,7 +9,7 @@ nav_order: 4
 
 I first started programming in 8th grade out of pure interest and passion.  
 Ever since then, I have delved deeper into various industry internships to strengthen my problem-solving and engineering background.  
-Through my industry work, I have navigated immense, complex codebases, implemented functionality from scratch that no one else did in the company prior to me in niche, limited-documentation frameworks, advanced my leadership abilities in self-directing a large open-ended problem by defining clearer delivery objectives, and greatly strengthened my collaboration and networking skills.  
+Through my industry work, I have navigated immense, complex codebases, implemented functionality from scratch that no one else did in the company prior to me in niche, limited-documentation frameworks, advanced my leadership abilities in self-directing a large open-ended problem by defining clearer delivery objectives, and greatly strengthened my collaboration and networking skills.
 
 I have also built adhering to best coding practices, quick delivery/turn-around time, and clear communication.  
 Before joining Google full-time, I interned three times at Google. I also previously interned at a startup and another company.  
