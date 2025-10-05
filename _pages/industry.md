@@ -7,11 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-
 I started doing CS research in high school after cold-emailing Rutgers faculty, which led to an early graph theory project. Since then, nearly all of my work has focused on machine learning. Along the way I’ve built a strong bias toward open-ended problem solving and grit.  
 **Recognition:** 2023–2024 UC San Diego Physical Sciences Dean’s Undergraduate Award for Excellence (nominated by my thesis advisor).
 
-* * *
+---
 
 ## Esoteric Language Models
 
