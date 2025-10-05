@@ -27,7 +27,7 @@ I started doing CS research in high school after cold-emailing Rutgers faculty, 
 **Google (Remote)**
 
 - Mentored by a senior scientist (DeepMind) on core ML topics; worked through selected chapters/resources.
-- Broadened perspective on current research directions and practical workflows.
+- Broadened perspective on current research directions and solidifed research concepts.
 
 ## Flat Minima Can Fail to Transfer to Downstream Tasks
 
