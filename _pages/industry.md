@@ -7,56 +7,31 @@ nav: true
 nav_order: 4
 ---
 
-I started doing CS research in high school after cold-emailing Rutgers faculty, which led to an early graph theory project. Since then, nearly all of my work has focused on machine learning. Along the way I’ve built a strong bias toward open-ended problem solving and grit.  
-**Recognition:** 2023–2024 UC San Diego Physical Sciences Dean’s Undergraduate Award for Excellence (nominated by my thesis advisor).
+I first started programming in 8th grade out of pure interest and passion.  
+Ever since then, I have delved deeper into various industry internships to strengthen my problem-solving and engineering background.  
+Through my industry work, I have navigated immense, complex codebases, implemented functionality from scratch that no one else did in the company prior to me in niche, limited-documentation frameworks, advanced my leadership abilities in self-directing a large open-ended problem by defining clearer delivery objectives, and greatly strengthened my collaboration and networking skills.  
+
+I have also built adhering to best coding practices, quick delivery/turn-around time, and clear communication.  
+Before joining Google full-time, I interned three times at Google. I also previously interned at a startup and another company.  
+Below are my past experiences.
 
 ---
 
-## Esoteric Language Models
+## Google Software Engineer Intern
 
-**Kuleshov Lab, Cornell University (Cornell Tech)** — contributed across several projects:
+- Worked on a mathematically rigorous project involving **differential privacy, statistics, probability,** and **probabilistic graphical models**.
+- Ramped up on advanced mathematical concepts and proofs.
+- Scoped out an open-ended project to deliver impactful milestones throughout the internship.
+- Wrote all experiments in **Python**, testing across multiple datasets.
+- Contributed **~13K lines of code** to the repository.
+- **Exceeded expectations** in performance evaluation.
 
-- Studied diffusion and “next-gen” language models (e.g., MDLM, MuLAN); surveyed samplers and schedules.
-- Implemented interpolation between reconstruction and diffusion components at different timesteps.
-- Modified attention-masking mechanisms for a diffusion-transformer denoiser in a targeted use case.
-- Ran Conditional Mauve evaluations; integrated external samplers (e.g., ReMDM) into our codebase.
-- Engineered clean Torch code, ran experiments across configs, analyzed metrics and samples.
+---
 
-## Google Computer Science Research Mentorship Program (CSRMP)
+## Google Software Engineer Intern
 
-**Google (Remote)**
-
-- Mentored by a senior scientist (DeepMind) on core ML topics; worked through selected chapters/resources.
-- Broadened perspective on current research directions and practical workflows.
-
-## Flat Minima Can Fail to Transfer to Downstream Tasks
-
-**Voluntarily advised by a DeepMind senior research scientist & Vector Institute co-director**
-
-- Reviewed related work (e.g., Tengyu Ma’s papers) to build foundations.
-- Tested an edge case from prior work; observed generalization/optimization behavior under perturbations.
-- Implemented noise/perturbation pipelines; ran MNIST/CIFAR experiments with ResNets and other models.
-
-## ConverSense: Automated Assessment of Patient–Provider Interactions via Social Signals
-
-**Weibel Lab, UC San Diego**
-
-- Surveyed feature-extraction approaches for social-signal detection; tried NVIDIA diarization pipelines.
-- Used **librosa** to compute audio features; inspected importance patterns (e.g., with seaborn).
-- Trained **scikit-learn** classifiers; addressed imbalance with **SMOTE**.
-- Post-submission, explored language-model techniques for healthcare applications.
-
-## CSNext Program
-
-**University of Washington, Reality Lab (Remote)**
-
-- Deepened understanding of RNNs/LSTMs; worked with ECG data and classical ML classifiers.
-- Presented final results to the group.
-
-## Exploring Gradient-Free Optimization Algorithms
-
-**Dr. Yuhua Zhu Lab (Math Dept Honors Thesis)**
-
-- Studied federated learning and physics-inspired, gradient-free optimization.
-- Implemented the algorithm (from pseudocode) in PyTorch; debugged and ran on several datasets.
-- Built visualizations of consensus trajectories; parallelized heavy computations for the lab repo.
+- Implemented new functionality in a niche, limited-documentation **UI framework** used across Google.
+- Worked with multiple technologies: **Kotlin, Java, Python, Angular, TypeScript,** and **HTML/CSS**.
+- Delivered both the **core project** and an **extension project**.
+- Contributed **6K+ lines of code**.
+- **Exceeded expectations** in performance evaluation.
