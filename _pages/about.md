@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
 
 social: true # includes social icons at the bottom of the page
-
 ---
 
 I am a Googler (SWE).
